@@ -1,3 +1,4 @@
+https://stackoverflow.com/questions/62684024/why-is-my-async-function-being-executed-before-an-earlier-promise-is-being-fulfi
 1. What is a promise?
     A promise is an object which allows us to execute our code asynchronously.
 2. How do we use promises?
